@@ -15,7 +15,7 @@
   x=0;
   y=149;
   red = 150;
-  green = 220;
+  green = 200;
   blue = 150;
   red2 = red;
   green2 = green;
